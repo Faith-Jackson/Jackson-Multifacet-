@@ -1,0 +1,6 @@
+{
+  "name": "Jackson Multifacet Platform",
+  "description": "A comprehensive service platform for Jackson Multifacet, specializing in digital product development, branding, marketing, and business growth. Features role-based client, candidate, and staff portals with project tracking, document sharing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

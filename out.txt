@@ -1,0 +1,61 @@
+    color: 'text-coffee-400'
+    color: 'text-coffee-400'
+    <div className="min-h-screen bg-[#050507] text-[#e0e0e6] font-sans selection:bg-coffee-500 selection:text-white selection:bg-opacity-30">
+                <div className="w-8 h-8 bg-coffee-500/20 rounded-lg flex items-center justify-center">
+                  <Bot className="w-4 h-4 text-coffee-400" />
+                  <Sparkles className="w-8 h-8 text-coffee-400" />
+                      ? 'bg-coffee-600 text-white rounded-br-none' 
+                      <div className="w-1.5 h-1.5 bg-coffee-400/40 rounded-full animate-bounce" />
+                      <div className="w-1.5 h-1.5 bg-coffee-400/40 rounded-full animate-bounce delay-100" />
+                      <div className="w-1.5 h-1.5 bg-coffee-400/40 rounded-full animate-bounce delay-200" />
+                  className="w-full bg-black/40 border border-white/10 rounded-2xl p-4 pr-12 text-xs text-white placeholder:text-white/20 focus:outline-none focus:border-coffee-500/50"
+                  className="absolute right-2 top-1/2 -translate-y-1/2 w-8 h-8 bg-coffee-600 text-white rounded-xl flex items-center justify-center hover:bg-coffee-500 transition-colors"
+          className="w-14 h-14 bg-coffee-600 text-white rounded-full flex items-center justify-center shadow-lg shadow-coffee-500/40 border border-coffee-500/50 backdrop-blur-md group relative"
+          className="w-14 h-14 bg-white/5 text-coffee-400 rounded-full flex items-center justify-center shadow-lg border border-white/10 backdrop-blur-md group relative shadow-[0_0_20px_rgba(169,128,88,0.2)]"
+            <div className="w-9 h-9 bg-gradient-to-br from-coffee-500 to-purple-600 rounded-lg flex items-center justify-center shadow-[0_0_15px_rgba(169,128,88,0.4)]">
+            <span className="text-xl font-bold tracking-tight text-white font-display">JACKSON <span className="text-coffee-400">MULTIFACET</span></span>
+                  activeTab === item.href.replace('#', '') ? 'text-coffee-400' : 'text-white/40 hover:text-white'
+                    className="absolute -bottom-1 left-0 right-0 h-0.5 bg-coffee-500 rounded-full"
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[600px] bg-coffee-500/10 blur-[120px] rounded-full pointer-events-none -z-10" />
+            className="inline-flex items-center gap-2 px-4 py-2 bg-coffee-500/10 border border-coffee-500/20 rounded-full text-[10px] font-black uppercase tracking-[0.2em] text-coffee-400 mb-8"
+            Defining the <span className="text-transparent bg-clip-text bg-gradient-to-r from-coffee-400 to-purple-600">Digital Vanguard</span>.
+            <Link to="/portal" className="bg-coffee-600 hover:bg-coffee-500 text-white px-10 py-5 rounded-2xl font-bold text-lg transition-all shadow-[0_0_25px_rgba(79,70,229,0.4)] flex items-center justify-center gap-3 active:scale-95 group">
+              <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">Comprehensive Solutions</span>
+                <p className="text-xl font-medium text-coffee-400/90">{catalogIntro.subtitle}</p>
+              <BookOpen className="w-6 h-6 text-coffee-400" />
+                <div key={idx} className="bg-white/5 border border-white/10 rounded-[3rem] p-10 hover:border-coffee-500/30 transition-all group flex flex-col h-full">
+                    <div className="w-14 h-14 rounded-2xl bg-coffee-500/10 flex items-center justify-center text-coffee-400 font-bold text-2xl shrink-0 group-hover:scale-110 group-hover:bg-coffee-500/20 transition-all">
+                      <p className="text-[10px] font-black uppercase tracking-widest text-coffee-400/80 mb-4">Services Include:</p>
+            <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">Our Work</span>
+            <div className="h-1.5 w-24 bg-coffee-500 mx-auto rounded-full mb-8" />
+              <div key={item} className="h-80 bg-white/5 border border-white/10 rounded-[3rem] p-10 flex flex-col justify-end group hover:border-coffee-500/30 transition-all">
+                <h3 className="text-xl font-bold text-white mb-2 group-hover:text-coffee-400 transition-colors">Classified Asset</h3>
+            <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">Service Tiers</span>
+            <div className="h-1.5 w-24 bg-coffee-500 mx-auto rounded-full mb-8" />
+              <div key={tier} className={`bg-white/5 border ${idx === 1 ? 'border-coffee-500/50 scale-105 shadow-[0_0_30px_rgba(169,128,88,0.15)]' : 'border-white/10'} p-10 rounded-[3rem] relative flex flex-col`}>
+                 {idx === 1 && <span className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-coffee-500 text-black text-[10px] font-black uppercase tracking-widest py-1.5 px-4 rounded-full">Most Popular</span>}
+                       <div className="w-1.5 h-1.5 rounded-full bg-coffee-500/50" />
+                 <a href="#contact" className={`w-full text-center py-4 rounded-2xl text-sm font-bold transition-all ${idx === 1 ? 'bg-coffee-600 hover:bg-coffee-500 text-white shadow-lg shadow-coffee-500/20' : 'bg-white/5 hover:bg-white/10 text-white'}`}>Request Quote</a>
+            <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">Knowledge Base</span>
+            <div className="h-1.5 w-24 bg-coffee-500 mx-auto rounded-full mb-8" />
+                <span className="text-[10px] font-black uppercase tracking-widest text-coffee-400 mb-4 block">Design & Tech</span>
+                <h3 className="text-2xl font-bold text-white mb-4 group-hover:text-coffee-400 transition-colors">Architecting Scalable Systems for Q4.</h3>
+                  Read Transmission <span className="text-coffee-500 group-hover:translate-x-1 transition-transform">→</span>
+            <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">About Jackson Multifacet</span>
+            <div className="h-1.5 w-24 bg-coffee-500 mx-auto rounded-full mb-8" />
+              <div className="absolute top-0 right-0 w-32 h-32 bg-coffee-500/10 blur-3xl -mr-16 -mt-16 group-hover:bg-coffee-500/20 transition-all duration-700" />
+                <div className="w-12 h-1 bg-coffee-500 rounded-full" />
+                <span className="text-xs font-bold uppercase tracking-widest text-coffee-400">Our Reach</span>
+            <div className="bg-gradient-to-br from-coffee-500/10 to-transparent border border-white/10 p-12 rounded-[3rem] space-y-6">
+              <div className="w-14 h-14 bg-coffee-500 rounded-2xl flex items-center justify-center shadow-[0_0_20px_rgba(169,128,88,0.4)]">
+                { name: 'Innovation', desc: 'We embrace creativity, technology, and forward-thinking strategies to solve modern business challenges.', icon: Lightbulb, color: 'text-coffee-400' },
+                { name: 'Collaboration', desc: 'We believe the best results come from understanding our clients and working together toward shared goals.', icon: Building2, color: 'text-coffee-400' },
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-coffee-500/5 blur-[100px] rounded-full -z-10" />
+              <span className="text-[10px] font-black uppercase tracking-[0.3em] text-coffee-400 mb-4 block">Partnership Advantages</span>
+                    <div className="text-coffee-500 font-bold font-mono text-xl pt-1">0{i+1}.</div>
+                      <h4 className="text-xl font-bold text-white mb-2 group-hover:text-coffee-400 transition-colors">{item.title}</h4>
+                  className="aspect-square bg-gradient-to-br from-coffee-500/10 to-purple-500/10 rounded-[4rem] border border-white/10 flex items-center justify-center p-12 overflow-hidden group relative"
+                        <Sparkles className="w-10 h-10 text-coffee-400" />
+                      We believe strong branding, efficient systems, digital transformation, and the right support structure can <span className="text-coffee-400">completely change the trajectory</span> of a business.
+                    <div className="w-px h-16 bg-gradient-to-b from-coffee-500 to-transparent" />
+                  { icon: Phone, color: 'text-coffee-400', hover: 'hover:border-coffee-500/50 hover:bg-coffee-500/10' },
